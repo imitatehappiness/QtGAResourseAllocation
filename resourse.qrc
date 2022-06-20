@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/resourse">
+        <file>img/image.png</file>
+        <file>gr.png</file>
+        <file>menu.png</file>
+        <file>setting.png</file>
+        <file>checked-user.png</file>
+        <file>c_stuff.png</file>
+        <file>c_task.png</file>
+        <file>start.png</file>
+        <file>assistant.png</file>
+        <file>assistant-128.png</file>
+        <file>img/chat-2-64.png</file>
+        <file>clock-8-64.png</file>
+        <file>calendar-3-64.png</file>
+        <file>calendar-9-64.png</file>
+    </qresource>
+</RCC>
