@@ -1,8 +1,6 @@
 ## Course Work 2021
 ### Программная реализация генетического алгоритма для решения задачи оптимального распределения ресурсов сотрудников call–центра, обладающих как одним, так и несколькими навыками.
 
-![image](https://user-images.githubusercontent.com/79199956/175935964-5b39e78c-84c0-4266-bc1c-32bfc622a465.png)
-
 ![image](https://user-images.githubusercontent.com/79199956/175936168-c758bd28-619b-4232-bee7-2e1df1e722bd.png)
 
 ![image](https://user-images.githubusercontent.com/79199956/175935488-3140b2c2-3dcd-4606-a15d-f05d39eb59d7.png)
